@@ -4,9 +4,11 @@ Animated agent icons for pull request footers and review comments.
 
 | Icon | File |
 | --- | --- |
+| Antigravity | `icons/antigravity-float.svg` |
 | Claude Code | `icons/claudecode-walk.svg` |
 | Codex | `icons/codex-hop.svg` |
 | Claude | `icons/claude-spin.svg` |
+| Gemini | `icons/gemini-spin.svg` |
 | OpenAI | `icons/openai-spin.svg` |
 
 Link them through jsDelivr, pinned to a tag:
